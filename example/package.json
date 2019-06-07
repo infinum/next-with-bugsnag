@@ -1,0 +1,27 @@
+{
+  "name": "example",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "dev": "next",
+    "build": "next build",
+    "start": "next start"
+  },
+  "dependencies": {
+    "next": "^8.1.0",
+    "react": "^16.8.6",
+    "react-dom": "^16.8.6"
+  },
+  "devDependencies": {
+    "@types/next": "^8.0.5",
+    "@types/react": "^16.8.19",
+    "@types/react-dom": "^16.8.4",
+    "@zeit/next-source-maps": "^0.0.3",
+    "@zeit/next-typescript": "^1.1.2-canary.0",
+    "dotenv": "^8.0.0",
+    "next-compose-plugins": "^2.2.0",
+    "typescript": "^3.5.1",
+    "webpack-bugsnag-plugins": "^1.4.0"
+  }
+}
