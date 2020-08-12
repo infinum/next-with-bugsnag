@@ -1,6 +1,6 @@
 {
   "name": "next-with-bugsnag",
-  "version": "0.0.0",
+  "version": "0.1.0",
   "main": "dist/index.js",
   "umd:main": "dist/next-with-bugsnag.umd.production.js",
   "module": "dist/next-with-bugsnag.es.production.js",
